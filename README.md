@@ -14,7 +14,7 @@
 </h2>
 
 Hello there! I am Aditya Anand. Building state-of-the-art, easy to use, user-friendly websites and applications is truly a passion of mine. I actively seek out new technologies and stay up-to-date on industry trends and advancements. I develop elegant and responsive frontend with optimised and modern backend.<br> <br>
-📫 How to reach me: <a href="mailto: adityaanand1245@gmail.com">prkskrs@gmail.com</a>
+📫 How to reach me: <a href="mailto: adityaanand1245@gmail.com">adityaanand1245@gmail.com</a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=prkskrs&icon=0&color=1)](https://visitcount.itsvg.in)
