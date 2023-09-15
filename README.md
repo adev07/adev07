@@ -17,7 +17,7 @@ Hello there! I am Aditya Anand. Building state-of-the-art, easy to use, user-fri
 📫 How to reach me: <a href="mailto: adityaanand1245@gmail.com">adityaanand1245@gmail.com</a>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=prkskrs&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=adev07&icon=0&color=1)](https://visitcount.itsvg.in)
 <br>
 
 
@@ -77,7 +77,7 @@ Hello there! I am Aditya Anand. Building state-of-the-art, easy to use, user-fri
 
 ## 🏆 GitHub Trophies 🏆
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=prkskrs&theme=darkhub&no-frame=false&no-bg=true&margin-w=15&margin-h=15&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=adev07&theme=darkhub&no-frame=false&no-bg=true&margin-w=15&margin-h=15&column=7" />
 </p>
 
 
