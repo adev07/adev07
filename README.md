@@ -13,7 +13,7 @@
          width="45" /> -->
 </h2>
 
-I am a backend developer and data scientist that focuses on NodeJS and TypeScript. I always like creating applications using Web3, MLOPS, and AI.<br> <br>
+Hello there! I am Aditya Anand. Building state-of-the-art, easy to use, user-friendly websites and applications is truly a passion of mine. I actively seek out new technologies and stay up-to-date on industry trends and advancements. I develop elegant and responsive frontend with optimised and modern backend.<br> <br>
 📫 How to reach me: <a href="mailto: work.prkskrs@gmail.com">prkskrs@gmail.com</a>
 
 ---
