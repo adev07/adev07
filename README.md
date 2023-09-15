@@ -1,12 +1,12 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=hey+there!+%F0%9F%91%8B;this+is+prkskrs....;a+passionate+backend+engineer;nice+to+meet+you!" />
+    <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=hey+there!+%F0%9F%91%8B;this+is+Aditya....;a+passionate+Frontend+engineer;nice+to+meet+you!" />
   </a>
 </h1>
 
 
 <h2 align="left">
-    Aditya
+    Aditya Anand
 <!--     <img src="https://github.com/CatalystsReachOut/.github/blob/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
