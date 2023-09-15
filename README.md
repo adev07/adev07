@@ -13,7 +13,7 @@
          width="45" /> -->
 </h2>
 
-Hello there! I am Aditya Anand. Building state-of-the-art, easy to use, user-friendly websites and applications is truly a passion of mine. I actively seek out new technologies and stay up-to-date on industry trends and advancements. I develop elegant and responsive frontend with optimised and modern backend.<br> <br>
+Hello there! I am Aditya Anand. Building state-of-the-art, easy to use, user-friendly websites and applications is truly a passion of mine.<br> I actively seek out new technologies and stay up-to-date on industry trends and advancements. I develop elegant and responsive frontend with optimised and modern backend.<br> <br>
 📫 How to reach me: <a href="mailto: adityaanand1245@gmail.com">adityaanand1245@gmail.com</a>
 
 ---
@@ -23,7 +23,7 @@ Hello there! I am Aditya Anand. Building state-of-the-art, easy to use, user-fri
 
 ## Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakash-singh-89654821b/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@prkskrs) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-anand-748139226/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@prkskrs) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Secure_Nose_5735/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/prkskrs) 
 
