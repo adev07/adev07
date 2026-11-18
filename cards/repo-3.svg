@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="445" height="140" viewBox="0 0 445 140" role="img" aria-label="Repository XtendSales"><style>
+text{font-family:ui-sans-serif,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#e6edf7}
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace} .muted{fill:#8b9bb8}
+.fade{animation:fade .6s ease-out both}
+.rise{transform-box:fill-box;transform-origin:center;animation:rise .9s cubic-bezier(.2,.9,.3,1.3) both}
+.grow{transform-box:fill-box;transform-origin:bottom;animation:grow .8s cubic-bezier(.2,.8,.2,1) both}
+.pop{transform-box:fill-box;transform-origin:center;animation:pop .35s ease-out both}
+.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.6s ease-out infinite}
+.shine{animation:shine 5s ease-in-out infinite}
+@keyframes fade{from{opacity:0;transform:translateY(6px)}}
+@keyframes rise{0%{opacity:0;transform:translateY(28px) rotate(-4deg)}70%{transform:translateY(-4px) rotate(1deg)}}
+@keyframes grow{from{transform:scaleY(0)}}
+@keyframes pop{0%{transform:scale(0);opacity:0}70%{transform:scale(1.3)}}
+@keyframes pulse{from{transform:scale(.6);opacity:.9}to{transform:scale(1.8);opacity:0}}
+@keyframes shine{0%,60%{transform:translateX(-400px)}100%{transform:translateX(400px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><rect x=".5" y=".5" width="444" height="139" rx="14" fill="#0b1020" stroke="#1e2a4a"/><g class="rise" style="animation-delay:2.04s">
+<text x="24" y="40" font-size="12" class="mono muted">adev07 /</text>
+<text x="24" y="66" font-size="21" font-weight="700">XtendSales</text>
+<text x="24" y="92" font-size="13" class="muted">TypeScript project</text>
+<circle cx="30" cy="114" r="6" fill="#3178c6"/>
+<text x="42" y="118.5" font-size="12.5" class="mono">TypeScript</text>
+<text x="420" y="118.5" font-size="12" text-anchor="end" class="mono muted">updated 13 months ago</text>
+<path d="M404 46 l10 -10 m-8 0 h8 v8" stroke="#61dafb" stroke-width="2" fill="none" class="fade" style="animation-delay:2.54s"/></g></svg>
